@@ -220,7 +220,7 @@ The accompanying presentation provides additional insight into the platform desi
 
 **Presentation Link**
 
-> Add your PowerPoint or PDF presentation link here.
+`https://docs.google.com/presentation/d/1MAS-wn87cC51koNqbp3A-3OFZWI3tfwX/edit?usp=sharing&ouid=117668241938972796563&rtpof=true&sd=true`
 
 ---
 
